@@ -1,0 +1,28 @@
+{
+  "name": "jwt_bio_auth",
+  "version": "1.0.0",
+  "description": "A face-recognition based authentication system!!",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SohaibKhaliq/JWT_Bio_Auth.git"
+  },
+  "keywords": [
+    "JWT",
+    "React",
+    "Biometric",
+    "Authentication",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "SohaibKhaliq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SohaibKhaliq/JWT_Bio_Auth/issues"
+  },
+  "homepage": "https://github.com/SohaibKhaliq/JWT_Bio_Auth#readme"
+}
