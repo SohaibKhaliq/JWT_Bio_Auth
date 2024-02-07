@@ -4,6 +4,7 @@
   "description": "A face-recognition based authentication system!!",
   "main": "server/app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
