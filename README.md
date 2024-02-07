@@ -43,4 +43,4 @@ npm install or yarn install
 Contributions are welcome! Please follow the contribution guidelines outlined in the project's repository.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
